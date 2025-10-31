@@ -44,6 +44,9 @@ Verse Echo is an innovative web application that empowers poets to create, colla
 - **react-hot-toast** for notifications
 - **framer-motion** for animations
 - **react-markdown** for rendering poem content
+<img width="1919" height="917" alt="Screenshot 2025-10-31 130231" src="https://github.com/user-attachments/assets/6bb6b650-9edd-4d6f-be12-0bbef814edd2" />
+<img width="1919" height="912" alt="Screenshot 2025-10-31 130239" src="https://github.com/user-attachments/assets/75f66e21-64c8-4eea-aab6-2fd158eef2ed" />
+<img width="1919" height="911" alt="Screenshot 2025-10-31 133900" src="https://github.com/user-attachments/assets/cd8c6223-419e-4200-a3f2-f31348ae5dc2" />
 
 ## Getting Started
 
